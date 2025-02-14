@@ -1,0 +1,9 @@
+transformers
+torch
+numpy
+colorama
+pyfiglet
+librosa
+soundfile
+sounddevice
+TTS

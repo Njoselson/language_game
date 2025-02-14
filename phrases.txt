@@ -1,0 +1,574 @@
+Living Conditions / Condiciones de Vida (Continued)
+
+S1: ¿Tiene problemas con el agua caliente?
+S2: Sí, a veces no hay agua caliente en la ducha.
+S1: ¿Ha reportado esto al casero?
+S2: Sí, pero no ha hecho nada al respecto.
+S1: ¿Cuánto tiempo lleva con este problema?
+S2: Más de tres meses.
+
+S1: ¿Cómo es la iluminación en su casa?
+S2: Es buena, pero algunas lámparas están rotas.
+S1: ¿Ha intentado cambiar las lámparas usted mismo?
+S2: Sí, pero algunas están en lugares difíciles de alcanzar.
+S1: ¿Ha considerado contratar a alguien para arreglarlas?
+S2: Sí, pero no tengo el presupuesto para eso.
+
+S1: ¿Hay suficiente ventilación en su apartamento?
+S2: No, las ventanas son pequeñas y no entra mucho aire.
+S1: ¿Ha considerado usar ventiladores?
+S2: Sí, pero no es suficiente en verano.
+S1: ¿Ha pensado en instalar un aire acondicionado?
+S2: Sí, pero es muy caro.
+
+S1: ¿Ha tenido problemas con el piso?
+S2: Sí, algunas tablas están sueltas y es peligroso.
+S1: ¿Ha intentado arreglarlo usted mismo?
+S2: No, prefiero que lo haga un profesional.
+S1: ¿Ha hablado con el casero sobre esto?
+S2: Sí, pero no ha hecho nada.
+
+S1: ¿Cómo es el sistema eléctrico?
+S2: No funciona bien, a veces se va la luz.
+S1: ¿Ha llamado a un electricista?
+S2: Sí, pero el problema persiste.
+S1: ¿Ha considerado cambiar el sistema eléctrico?
+S2: Sí, pero es muy costoso.
+
+S1: ¿Hay ascensor en su edificio?
+S2: No, tenemos que subir por las escaleras.
+S1: ¿Es difícil para usted subir las escaleras?
+S2: Sí, especialmente cuando llevo cosas pesadas.
+S1: ¿Ha hablado con el casero sobre instalar un ascensor?
+S2: Sí, pero dice que es muy caro.
+
+S1: ¿Cómo es el sistema de seguridad?
+S2: No hay cámaras ni vigilancia, y eso me preocupa.
+S1: ¿Ha hablado con los vecinos sobre esto?
+S2: Sí, pero no hemos llegado a una solución.
+S1: ¿Ha considerado instalar una alarma en su apartamento?
+S2: Sí, pero es muy caro.
+
+S1: ¿Ha tenido problemas con los vecinos?
+S2: Sí, hacen mucho ruido por la noche.
+S1: ¿Ha hablado con ellos sobre el ruido?
+S2: Sí, pero no han cambiado su comportamiento.
+S1: ¿Ha considerado llamar a la policía?
+S2: Sí, pero prefiero resolverlo pacíficamente.
+
+S1: ¿Cómo es el acceso para personas con discapacidad?
+S2: No hay rampas ni facilidades para sillas de ruedas.
+S1: ¿Conoce a alguien que necesite estas facilidades?
+S2: Sí, un amigo mío tiene dificultades para moverse.
+S1: ¿Ha hablado con el casero sobre esto?
+S2: Sí, pero no ha hecho nada.
+
+S1: ¿Qué cambiaría de su vivienda?
+S2: Me gustaría tener más espacio y menos humedad.
+S1: ¿Ha considerado mudarse a otro lugar?
+S2: Sí, pero es difícil encontrar algo asequible.
+S1: ¿Ha buscado en otras áreas?
+S2: Sí, pero los precios son muy altos.
+
+Immigration Status / Estatus Migratorio (Continued)
+
+S1: ¿Ha tenido problemas para renovar su visa?
+S2: Sí, el proceso es muy complicado.
+S1: ¿Ha buscado ayuda legal?
+S2: Sí, pero los abogados son caros.
+S1: ¿Ha considerado buscar ayuda en organizaciones sin fines de lucro?
+S2: Sí, pero tienen una lista de espera larga.
+
+S1: ¿Tiene algún familiar que dependa de usted?
+S2: Sí, mis hijos dependen de mí.
+S1: ¿Cómo maneja la situación financiera?
+S2: Trabajo horas extras para cubrir los gastos.
+S1: ¿Recibe algún tipo de ayuda financiera?
+S2: No, no califico para la mayoría de los programas.
+
+S1: ¿Ha recibido amenazas en su país?
+S2: Sí, por eso decidí venir aquí.
+S1: ¿Ha considerado regresar?
+S2: No, es demasiado peligroso.
+S1: ¿Ha buscado protección aquí?
+S2: Sí, pero el proceso es lento.
+
+S1: ¿Ha solicitado la residencia permanente?
+S2: Sí, pero todavía estoy esperando.
+S1: ¿Cuánto tiempo lleva esperando?
+S2: Más de un año.
+S1: ¿Ha recibido alguna actualización sobre su caso?
+S2: No, todavía no.
+
+S1: ¿Qué tipo de apoyo necesita?
+S2: Necesito ayuda con los trámites legales.
+S1: ¿Ha encontrado alguna organización que le ayude?
+S2: Sí, pero tienen una lista de espera larga.
+S1: ¿Ha considerado buscar ayuda en línea?
+S2: Sí, pero prefiero hablar con alguien en persona.
+
+S1: ¿Ha tenido problemas en la frontera?
+S2: Sí, fue una experiencia muy difícil.
+S1: ¿Qué pasó exactamente?
+S2: Me detuvieron y me interrogaron durante horas.
+S1: ¿Cómo se sintió durante ese tiempo?
+S2: Estaba muy asustado y confundido.
+
+S1: ¿Qué le diría a alguien en su situación?
+S2: Que busque ayuda legal y no pierda la esperanza.
+S1: ¿Hay algo que desearía haber sabido antes de venir?
+S2: Sí, lo complicado que sería el proceso migratorio.
+S1: ¿Qué consejo le daría a alguien que está pensando en venir?
+S2: Que se prepare bien y busque apoyo.
+
+S1: ¿Ha participado en programas de ayuda para inmigrantes?
+S2: Sí, he recibido ayuda con comida y ropa.
+S1: ¿Cómo se enteró de estos programas?
+S2: A través de amigos y la comunidad.
+S1: ¿Ha encontrado estos programas útiles?
+S2: Sí, han sido de gran ayuda.
+
+S1: ¿Cómo ha sido su experiencia con el sistema de inmigración?
+S2: Ha sido confuso y estresante.
+S1: ¿Qué cambiaría del sistema?
+S2: Me gustaría que fuera más claro y rápido.
+S1: ¿Ha considerado buscar ayuda en línea?
+S2: Sí, pero prefiero hablar con alguien en persona.
+
+S1: ¿Qué espera lograr aquí?
+S2: Espero darle un mejor futuro a mi familia.
+S1: ¿Qué pasos está tomando para lograrlo?
+S2: Estoy estudiando y buscando mejores oportunidades de trabajo.
+S1: ¿Ha encontrado alguna oportunidad de trabajo?
+S2: Sí, pero todavía estoy buscando algo mejor.
+
+Personal Stories / Historias Personales (Continued)
+
+S1: ¿Qué recuerda más de su país?
+S2: Recuerdo los paisajes y las fiestas tradicionales.
+S1: ¿Ha podido visitar su país desde que llegó aquí?
+S2: No, no he tenido la oportunidad.
+S1: ¿Le gustaría visitar su país en el futuro?
+S2: Sí, me encantaría.
+
+S1: ¿Qué le gustaría compartir sobre su cultura?
+S2: Me gustaría enseñarles nuestras danzas y comidas.
+S1: ¿Ha participado en eventos culturales aquí?
+S2: Sí, en algunos festivales locales.
+S1: ¿Le gustaría organizar un evento cultural?
+S2: Sí, sería una gran oportunidad para compartir nuestra cultura.
+
+S1: ¿Qué ha sido lo más difícil de adaptarse aquí?
+S2: El idioma y el clima frío.
+S1: ¿Está tomando clases de inglés?
+S2: Sí, pero es un proceso lento.
+S1: ¿Ha encontrado alguna manera de practicar inglés fuera de clase?
+S2: Sí, hablo con mis compañeros de trabajo y amigos.
+
+S1: ¿Qué le hace sentir orgulloso de su país?
+S2: Nuestra historia y la resiliencia de nuestra gente.
+S1: ¿Cómo mantiene viva su cultura aquí?
+S2: Cocino platos tradicionales y celebro nuestras fiestas.
+S1: ¿Ha encontrado una comunidad de personas de su país aquí?
+S2: Sí, hay una comunidad grande y nos apoyamos mutuamente.
+
+S1: ¿Qué le gustaría que la gente supiera sobre usted?
+S2: Que soy trabajador y quiero lo mejor para mi familia.
+S1: ¿Qué le gustaría lograr en los próximos cinco años?
+S2: Tener una casa propia y un trabajo estable.
+S1: ¿Qué está haciendo para lograrlo?
+S2: Estoy estudiando y buscando mejores oportunidades de trabajo.
+
+S1: ¿Qué ha aprendido desde que llegó aquí?
+S2: He aprendido a ser más independiente.
+S1: ¿Qué consejo le daría a alguien que acaba de llegar?
+S2: Que sea paciente y busque apoyo en la comunidad.
+S1: ¿Ha encontrado apoyo en la comunidad?
+S2: Sí, la comunidad ha sido muy acogedora.
+
+S1: ¿Qué es lo que más valora en la vida?
+S2: Valoro a mi familia y la salud.
+S1: ¿Cómo cuida su salud aquí?
+S2: Trato de comer bien y hacer ejercicio regularmente.
+S1: ¿Ha encontrado algún lugar para hacer ejercicio?
+S2: Sí, voy a un gimnasio local.
+
+S1: ¿Qué le gustaría cambiar de su vida actual?
+S2: Me gustaría tener más estabilidad económica.
+S1: ¿Qué está haciendo para mejorar su situación?
+S2: Estoy buscando un segundo trabajo y estudiando.
+S1: ¿Ha encontrado algún segundo trabajo?
+S2: No, pero sigo buscando.
+
+Hobbies and Fun / Pasatiempos y Diversión (Continued)
+
+S1: ¿Le gusta viajar?
+S2: Sí, pero no tengo mucho tiempo para hacerlo.
+S1: ¿A dónde le gustaría ir?
+S2: Me gustaría visitar Europa algún día.
+S1: ¿Ha viajado a algún lugar interesante recientemente?
+S2: No, pero espero hacerlo pronto.
+
+S1: ¿Qué tipo de libros le gusta leer?
+S2: Me gustan las novelas históricas.
+S1: ¿Tiene algún autor favorito?
+S2: Sí, me gusta Gabriel García Márquez.
+S1: ¿Está leyendo algún libro actualmente?
+S2: Sí, estoy leyendo "El amor en los tiempos del cólera".
+
+S1: ¿Practica algún arte marcial?
+S2: No, pero me gustaría aprender.
+S1: ¿Qué arte marcial le interesa?
+S2: Me interesa el karate.
+S1: ¿Ha buscado alguna escuela de karate?
+S2: Sí, pero todavía no me he inscrito.
+
+S1: ¿Le gusta ir de compras?
+S2: Sí, me gusta comprar ropa y regalos para mi familia.
+S1: ¿Tiene alguna tienda favorita?
+S2: Sí, me gusta una tienda local que tiene buenos precios.
+S1: ¿Va de compras con frecuencia?
+S2: No mucho, solo cuando necesito algo.
+
+S1: ¿Qué hace cuando llueve?
+S2: Me quedo en casa y veo películas.
+S1: ¿Qué tipo de películas le gustan?
+S2: Me gustan las películas de acción y comedia.
+S1: ¿Tiene alguna película favorita?
+S2: Sí, me gusta "El Padrino".
+
+S1: ¿Le gusta la fotografía?
+S2: Sí, me gusta tomar fotos de la naturaleza.
+S1: ¿Tiene una cámara profesional?
+S2: No, uso mi teléfono para tomar fotos.
+S1: ¿Ha considerado comprar una cámara profesional?
+S2: Sí, pero es muy cara.
+
+S1: ¿Qué deporte le gusta ver en la televisión?
+S2: Me gusta ver el fútbol.
+S1: ¿Tiene un equipo favorito?
+S2: Sí, me gusta el Barcelona.
+S1: ¿Juega al fútbol también?
+S2: Sí, juego con mis amigos los fines de semana.
+
+S1: ¿Le gusta ir a conciertos?
+S2: Sí, pero no tengo mucho dinero para ir.
+S1: ¿Cuál fue el último concierto al que asistió?
+S2: Fui a ver a una banda local el año pasado.
+S1: ¿Le gustaría ir a más conciertos en el futuro?
+S2: Sí, me encantaría.
+
+S1: ¿Qué hace para mantenerse en forma?
+S2: Camino todos los días y hago ejercicio en casa.
+S1: ¿Sigue alguna rutina de ejercicios?
+S2: Sí, hago yoga y ejercicios de fuerza.
+S1: ¿Va al gimnasio?
+S2: No, prefiero hacer ejercicio en casa.
+
+S1: ¿Le gusta jugar videojuegos?
+S2: No mucho, pero a mis hijos les encanta.
+S1: ¿Qué juegos les gustan a sus hijos?
+S2: Les gustan los juegos de aventura y deportes.
+S1: ¿Juega con ellos alguna vez?
+S2: Sí, a veces jugamos juntos.
+
+Restaurants and Dining / Restaurantes y Comida (Continued)
+
+S1: ¿Qué plato recomendaría de su país?
+S2: Recomiendo los tamales y el pollo en mole.
+S1: ¿Sabe cómo preparar estos platos?
+S2: Sí, los preparo en casa para mi familia.
+S1: ¿Cuál es su plato favorito para cocinar?
+S2: Me encanta hacer enchiladas.
+
+S1: ¿Ha probado la comida asiática?
+S2: Sí, me gusta el sushi y el ramen.
+S1: ¿Tiene algún restaurante asiático favorito?
+S2: Sí, hay uno cerca de mi casa que es muy bueno.
+S1: ¿Ha intentado cocinar comida asiática en casa?
+S2: Sí, pero no me sale tan bien como en el restaurante.
+
+S1: ¿Qué postre le gusta más?
+S2: Me encanta el flan y el arroz con leche.
+S1: ¿Le gusta preparar postres?
+S2: Sí, disfruto mucho haciendo postres para mi familia.
+S1: ¿Tiene algún postre favorito para preparar?
+S2: Sí, me gusta hacer pastel de tres leches.
+
+S1: ¿Le gusta cocinar para otras personas?
+S2: Sí, me encanta preparar comida para mi familia.
+S1: ¿Cuál es su plato estrella?
+S2: Mi plato estrella es la paella.
+S1: ¿Le gusta experimentar con nuevas recetas?
+S2: Sí, siempre estoy buscando nuevas recetas para probar.
+
+S1: ¿Qué bebida típica de su país le gusta?
+S2: Me gusta el atole y el agua de horchata.
+S1: ¿Sabe cómo preparar estas bebidas?
+S2: Sí, las preparo en casa con frecuencia.
+S1: ¿Tiene alguna otra bebida favorita?
+S2: Sí, me gusta el café de olla.
+
+S1: ¿Ha ido a algún restaurante vegetariano?
+S2: Sí, pero prefiero la comida con carne.
+S1: ¿Qué plato vegetariano le gustó más?
+S2: Me gustó una ensalada de quinoa que probé.
+S1: ¿Ha considerado incorporar más platos vegetarianos en su dieta?
+S2: Sí, pero me gusta mucho la carne.
+
+S1: ¿Qué le gusta más, la comida dulce o salada?
+S2: Prefiero la comida salada, pero me gusta un buen postre.
+S1: ¿Tiene algún postre favorito?
+S2: Sí, me encanta el pastel de tres leches.
+S1: ¿Le gusta preparar postres?
+S2: Sí, disfruto mucho haciendo postres para mi familia.
+
+S1: ¿Qué restaurante le gustaría visitar?
+S2: Me gustaría ir a un restaurante de mariscos.
+S1: ¿Ha probado algún restaurante de mariscos aquí?
+S2: Sí, pero me gustaría probar uno más famoso.
+S1: ¿Tiene algún plato de mariscos favorito?
+S2: Sí, me gusta el ceviche.
+
+S1: ¿Qué comida le gustaría aprender a cocinar?
+S2: Me gustaría aprender a hacer sushi.
+S1: ¿Ha tomado alguna clase de cocina?
+S2: No, pero me gustaría tomar una en el futuro.
+S1: ¿Ha intentado hacer sushi en casa?
+S2: Sí, pero no me sale tan bien como en el restaurante.
+
+S1: ¿Qué comida le hace sentir como en casa?
+S2: Un buen plato de frijoles y arroz me recuerda a mi país.
+S1: ¿Prepara esta comida con frecuencia?
+S2: Sí, la preparo al menos una vez a la semana.
+S1: ¿Tiene algún otro plato que le recuerde a su país?
+S2: Sí, me gusta mucho el pozole.
+
+Living Conditions / Condiciones de Vida
+
+S1: ¿Cómo es su apartamento?
+S2: Es pequeño, pero tiene buena luz natural.
+S1: ¿Le gustaría mudarse a un lugar más grande?
+S2: Sí, pero es difícil encontrar algo asequible.
+S1: ¿Ha considerado buscar en otras áreas?
+S2: Sí, pero los precios son muy altos.
+
+S1: ¿Hay algún problema con su vivienda?
+S2: Sí, el techo tiene goteras cuando llueve.
+S1: ¿Ha reportado esto al casero?
+S2: Sí, pero no ha hecho nada al respecto.
+S1: ¿Cuánto tiempo lleva con este problema?
+S2: Más de tres meses.
+
+S1: ¿Ha habido plagas en su casa?
+S2: Sí, hemos tenido problemas con ratones.
+S1: ¿Ha intentado solucionarlo usted mismo?
+S2: Sí, pero no ha sido efectivo.
+S1: ¿Ha considerado contratar a un exterminador?
+S2: Sí, pero es muy caro.
+
+S1: ¿Funciona bien la calefacción?
+S2: No, la calefacción se rompió hace dos semanas.
+S1: ¿Cómo se está manteniendo caliente?
+S2: Uso mantas y un calentador portátil.
+
+S1: ¿Cómo es el vecindario?
+S2: Es tranquilo, pero hay mucho ruido por las noches.
+S1: ¿Ha hablado con los vecinos sobre el ruido?
+S2: Sí, pero no han cambiado su comportamiento.
+
+S1: ¿Tiene suficiente espacio para su familia?
+S2: No, somos cinco y el apartamento es muy pequeño.
+S1: ¿Ha considerado mudarse a otro lugar?
+S2: Sí, pero es difícil encontrar algo asequible.
+
+S1: ¿Hay moho en las paredes?
+S2: Sí, especialmente en el baño.
+S1: ¿Ha intentado limpiarlo?
+S2: Sí, pero vuelve a aparecer.
+
+S1: ¿Cómo es el acceso al transporte público?
+S2: Hay una parada de autobús cerca, pero no es muy confiable.
+S1: ¿Ha considerado usar otros medios de transporte?
+S2: Sí, pero no tengo coche.
+
+S1: ¿Ha reportado los problemas al casero?
+S2: Sí, pero no ha hecho nada al respecto.
+S1: ¿Ha considerado buscar otro lugar para vivir?
+S2: Sí, pero es difícil encontrar algo asequible.
+
+S1: ¿Qué es lo que más le gusta de su casa?
+S2: Me gusta que está cerca del parque.
+S1: ¿Va al parque con frecuencia?
+S2: Sí, voy con mi familia los fines de semana.
+
+Immigration Status / Estatus Migratorio
+
+S1: ¿Cuánto tiempo lleva en este país?
+S2: Llevo aquí cinco años.
+S1: ¿Cómo ha sido su experiencia hasta ahora?
+S2: Ha sido difícil, pero estoy agradecido por las oportunidades.
+
+S1: ¿Tiene algún familiar aquí?
+S2: Sí, mi hermano vive en la misma ciudad.
+S1: ¿Se ven con frecuencia?
+S2: Sí, tratamos de vernos al menos una vez al mes.
+
+S1: ¿Ha solicitado asilo?
+S2: Sí, estoy esperando una respuesta.
+S1: ¿Cuánto tiempo lleva esperando?
+S2: Más de un año.
+
+S1: ¿Tiene un abogado de inmigración?
+S2: No, todavía estoy buscando uno.
+S1: ¿Ha encontrado alguna organización que le ayude?
+S2: Sí, pero tienen una lista de espera larga.
+
+S1: ¿Cómo llegó a este país?
+S2: Vine con una visa de trabajo.
+S1: ¿Le gustaría quedarse permanentemente?
+S2: Sí, me gustaría obtener la residencia.
+
+S1: ¿Tiene miedo de regresar a su país?
+S2: Sí, hay mucha violencia allí.
+S1: ¿Ha considerado regresar?
+S2: No, es demasiado peligroso.
+
+S1: ¿Ha tenido problemas con su estatus migratorio?
+S2: Sí, mi visa expiró el año pasado.
+S1: ¿Qué está haciendo para resolverlo?
+S2: Estoy buscando ayuda legal.
+
+S1: ¿Qué tipo de documentos tiene?
+S2: Tengo un permiso de trabajo temporal.
+S1: ¿Está tratando de obtener otros documentos?
+S2: Sí, estoy solicitando la residencia permanente.
+
+S1: ¿Ha hablado con un abogado sobre su caso?
+S2: Sí, pero todavía no hay avances.
+S1: ¿Qué le ha dicho el abogado?
+S2: Que el proceso es lento y complicado.
+
+S1: ¿Necesita ayuda con su situación migratoria?
+S2: Sí, necesito orientación legal.
+S1: ¿Ha encontrado alguna organización que le ayude?
+S2: Sí, pero tienen una lista de espera larga.
+
+Personal Stories / Historias Personales
+
+S1: ¿De dónde es usted?
+S2: Soy de Guatemala.
+S1: ¿Qué extraña más de su país?
+S2: Extraño a mi familia y la comida tradicional.
+
+S1: ¿Por qué decidió venir aquí?
+S2: Vine buscando mejores oportunidades.
+S1: ¿Ha encontrado esas oportunidades?
+S2: Sí, pero ha sido un camino difícil.
+
+S1: ¿Qué extraña de su país?
+S2: Extraño a mi familia y la comida tradicional.
+S1: ¿Ha podido visitar su país desde que llegó aquí?
+S2: No, no he tenido la oportunidad.
+
+S1: ¿Cómo fue su infancia?
+S2: Fue difícil, pero llena de amor familiar.
+S1: ¿Qué es lo que más recuerda de su infancia?
+S2: Recuerdo jugar con mis amigos en el campo.
+
+S1: ¿Qué hace para relajarse?
+S2: Me gusta escuchar música y caminar por el parque.
+S1: ¿Tiene algún género musical favorito?
+S2: Sí, me gusta la música clásica.
+
+S1: ¿Tiene hijos?
+S2: Sí, tengo dos hijos pequeños.
+S1: ¿Cómo se adaptan ellos a la vida aquí?
+S2: Se están adaptando bien, pero extrañan a sus abuelos.
+
+S1: ¿Qué trabajo tenía en su país?
+S2: Era maestro de escuela.
+S1: ¿Le gustaría volver a enseñar aquí?
+S2: Sí, pero necesito mejorar mi inglés primero.
+
+S1: ¿Qué le gusta de vivir aquí?
+S2: Me gusta la seguridad y las oportunidades.
+S1: ¿Qué es lo que más le ha sorprendido de este país?
+S2: La diversidad cultural y la amabilidad de la gente.
+
+S1: ¿Qué es lo más difícil de vivir aquí?
+S2: El idioma y estar lejos de mi familia.
+S1: ¿Está tomando clases de inglés?
+S2: Sí, pero es un proceso lento.
+
+S1: ¿Qué sueños tiene para el futuro?
+S2: Quiero tener mi propio negocio.
+S1: ¿Qué tipo de negocio le gustaría tener?
+S2: Me gustaría abrir un restaurante.
+
+Hobbies and Fun / Pasatiempos y Diversión
+
+S1: ¿Qué hace en su tiempo libre?
+S2: Me gusta leer y cocinar.
+S1: ¿Tiene algún libro favorito?
+S2: Sí, me gusta "Cien años de soledad".
+
+S1: ¿Practica algún deporte?
+S2: Sí, juego fútbol los fines de semana.
+S1: ¿Tiene algún equipo favorito?
+S2: Sí, me gusta el Barcelona.
+
+S1: ¿Le gusta bailar?
+S2: Sí, me encanta bailar salsa.
+S1: ¿Va a clases de baile?
+S2: No, pero me gustaría tomar clases.
+
+S1: ¿Qué tipo de música le gusta?
+S2: Me gusta la música tradicional de mi país.
+S1: ¿Tiene algún artista favorito?
+S2: Sí, me gusta Ricardo Arjona.
+
+S1: ¿Va al cine a menudo?
+S2: No mucho, prefiero ver películas en casa.
+S1: ¿Qué tipo de películas le gustan?
+S2: Me gustan las películas de acción y comedia.
+
+S1: ¿Tiene algún hobby?
+S2: Sí, me gusta pintar.
+S1: ¿Qué hace para divertirse?
+S2: Salgo con amigos a pasear por la ciudad.
+
+S1: ¿Le gusta cocinar?
+S2: Sí, me encanta preparar platos tradicionales.
+S1: ¿Qué hace los fines de semana?
+S2: Voy al parque con mi familia.
+
+S1: ¿Ha hecho nuevos amigos aquí?
+S2: Sí, en el trabajo y en la comunidad.
+
+Restaurants and Dining / Restaurantes y Comida
+
+S1: ¿Conoce algún buen restaurante cerca?
+S2: Sí, hay uno mexicano que es excelente.
+S1: ¿Le gusta la comida de aquí?
+S2: Sí, pero extraño la comida de mi país.
+
+S1: ¿Qué tipo de comida prefiere?
+S2: Me gusta la comida picante.
+S1: ¿Ha probado la comida italiana?
+S2: Sí, me encanta la pasta.
+
+S1: ¿Qué le gusta pedir en los restaurantes?
+S2: Siempre pido algo nuevo para probar.
+S1: ¿Va a restaurantes con frecuencia?
+S2: No mucho, prefiero cocinar en casa.
+
+S1: ¿Qué restaurante recomendaría?
+S2: El restaurante de la esquina tiene buen pescado.
+S1: ¿Le gusta la comida rápida?
+S2: No mucho, prefiero comida casera.
+
+S1: ¿Qué bebida prefiere con la comida?
+S2: Me gusta tomar agua fresca.
+S1: ¿Ha ido a algún restaurante elegante?
+S2: Sí, fui a uno para mi aniversario.
